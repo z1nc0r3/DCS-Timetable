@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        tools:context=".TodayFragment"
+        android:background="@color/black">
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/sub_1"
+            app:cardCornerRadius="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <RelativeLayout
+                android:layout_width="110dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/am_7_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+
+                    android:text="@string/am_7"
+                    android:textSize="16sp"
+                    android:letterSpacing="0.05"
+                    android:textStyle="bold"
+                    android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="110dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:id="@+id/am_7"
+
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:letterSpacing="0.04"
+                    android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/sub_2"
+            app:cardCornerRadius="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_below="@id/sub_1"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <RelativeLayout
+                android:layout_width="110dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/am_8_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_centerInParent="true"
+
+                    android:text="@string/am_8"
+                    android:textSize="16sp"
+                    android:letterSpacing="0.05"
+                    android:textStyle="bold"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="110dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+
+                    android:id="@+id/am_8"
+
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:letterSpacing="0.04"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/sub_3"
+            app:cardCornerRadius="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_below="@id/sub_2"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <RelativeLayout
+                android:layout_width="110dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/am_9_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_centerInParent="true"
+
+                    android:text="@string/am_9"
+                    android:textSize="16sp"
+                    android:letterSpacing="0.05"
+                    android:textStyle="bold"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="110dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+
+                    android:id="@+id/am_9"
+
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:letterSpacing="0.04"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/sub_4"
+            app:cardCornerRadius="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_below="@id/sub_3"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <RelativeLayout
+                android:layout_width="110dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/am_10_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+
+                    android:text="@string/am_10"
+                    android:textSize="16sp"
+                    android:letterSpacing="0.04"
+                    android:textStyle="bold"
+                    android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="110dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+
+                    android:id="@+id/am_10"
+
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:letterSpacing="0.04"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/sub_5"
+            app:cardCornerRadius="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_below="@id/sub_4"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <RelativeLayout
+                android:layout_width="110dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/am_11_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+
+                    android:text="@string/am_11"
+                    android:textSize="16sp"
+                    android:letterSpacing="0.04"
+                    android:textStyle="bold"
+                    android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="110dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+
+                    android:id="@+id/am_11"
+
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:letterSpacing="0.04"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/sub_6"
+            app:cardCornerRadius="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_below="@id/sub_5"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <RelativeLayout
+                android:layout_width="110dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/pm_12_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_centerInParent="true"
+
+                    android:text="@string/pm_12"
+                    android:textSize="16sp"
+                    android:letterSpacing="0.05"
+                    android:textStyle="bold"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="110dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+
+                    android:id="@+id/pm_12"
+
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:letterSpacing="0.04"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/sub_7"
+            app:cardCornerRadius="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_below="@id/sub_6"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <RelativeLayout
+                android:layout_width="110dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/pm_1_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_centerInParent="true"
+
+                    android:text="@string/pm_1"
+                    android:textSize="16sp"
+                    android:letterSpacing="0.05"
+                    android:textStyle="bold"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="110dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+
+                    android:id="@+id/pm_1"
+
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:letterSpacing="0.04"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/sub_8"
+            app:cardCornerRadius="8dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_below="@id/sub_7"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <RelativeLayout
+                android:layout_width="110dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/pm_2_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+
+                    android:text="@string/pm_2"
+                    android:textSize="16sp"
+                    android:letterSpacing="0.05"
+                    android:textStyle="bold"
+                    android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="110dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+
+                    android:id="@+id/pm_2"
+
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:letterSpacing="0.04"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/sub_9"
+            app:cardCornerRadius="8dp"
+            android:layout_below="@id/sub_8"
+            android:layout_marginTop="2dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <RelativeLayout
+                android:layout_width="110dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/pm_3_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_centerInParent="true"
+
+                    android:text="@string/pm_3"
+                    android:textSize="16sp"
+                    android:letterSpacing="0.05"
+                    android:textStyle="bold"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="110dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+
+                    android:id="@+id/pm_3"
+
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:letterSpacing="0.04"/>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+            android:id="@+id/sub_10"
+            app:cardCornerRadius="8dp"
+            android:layout_below="@id/sub_9"
+            android:layout_marginTop="2dp"
+            android:layout_marginHorizontal="2dp"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+
+        <RelativeLayout
+                android:layout_width="110dp"
+                android:layout_height="match_parent">
+
+            <TextView
+                    android:id="@+id/pm_4_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+
+                    android:text="@string/pm_4"
+                    android:textSize="16sp"
+                    android:letterSpacing="0.05"
+                    android:textStyle="bold"
+                    android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginStart="110dp">
+
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+
+                    android:id="@+id/pm_4"
+
+                    android:text=""
+                    android:textStyle="bold"
+                    android:textSize="17sp"
+                    android:letterSpacing="0.04"/>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

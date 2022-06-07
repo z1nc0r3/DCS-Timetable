@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DCS Timetable</string>
+    <string name="am_7">7AM - 8AM</string>
+    <string name="am_8">8AM - 9AM</string>
+    <string name="am_9">9AM - 10AM</string>
+    <string name="am_10">10AM - 11AM</string>
+    <string name="am_11">11AM - 12AM</string>
+    <string name="pm_12">12AM - 1AM</string>
+    <string name="pm_1">1AM - 2AM</string>
+    <string name="pm_2">2AM - 3AM</string>
+    <string name="pm_3">3AM - 4AM</string>
+    <string name="pm_4">4AM - 5AM</string>
+</resources>

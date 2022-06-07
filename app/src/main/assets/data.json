@@ -1,0 +1,66 @@
+{
+  "timetable": [
+    {
+      "monday": [
+        { "time": "7", "subject": "None" },
+        { "time": "8", "subject": "Data Structures & Algorithms" },
+        { "time": "9", "subject": "Web Technologies (Practical)" },
+        { "time": "10", "subject": "Web Technologies (Practical)" },
+        { "time": "11", "subject": "Web Technologies (Practical)" },
+        { "time": "12", "subject": "Interval" },
+        { "time": "1", "subject": "Bioinformatics" },
+        { "time": "2", "subject": "Professional Practice" },
+        { "time": "3", "subject": "Web Technologies (Theory)" },
+        { "time": "4", "subject": "None" }
+      ],
+      "tuesday": [
+        { "time": "7", "subject": "None" },
+        { "time": "8", "subject": "None" },
+        { "time": "9", "subject": "English" },
+        { "time": "10", "subject": "English" },
+        { "time": "11", "subject": "Operating Systems" },
+        { "time": "12", "subject": "Interval" },
+        { "time": "1", "subject": "None" },
+        { "time": "2", "subject": "None" },
+        { "time": "3", "subject": "None" },
+        { "time": "4", "subject": "None" }
+      ],
+      "wednesday": [
+        { "time": "7", "subject": "None" },
+        { "time": "8", "subject": "None" },
+        { "time": "9", "subject": "None" },
+        { "time": "10", "subject": "None" },
+        { "time": "11", "subject": "Operating Systems" },
+        { "time": "12", "subject": "Interval" },
+        { "time": "1", "subject": "Web Technologies (Practical)" },
+        { "time": "2", "subject": "Web Technologies (Practical)" },
+        { "time": "3", "subject": "Web Technologies (Practical)" },
+        { "time": "4", "subject": "None" }
+      ],
+      "thursday": [
+        { "time": "7", "subject": "None" },
+        { "time": "8", "subject": "None" },
+        { "time": "9", "subject": "Java Programming" },
+        { "time": "10", "subject": "Java Programming" },
+        { "time": "11", "subject": "Java Programming" },
+        { "time": "12", "subject": "Interval" },
+        { "time": "1", "subject": "Bioinformatics" },
+        { "time": "2", "subject": "Professional Practice" },
+        { "time": "3", "subject": "None" },
+        { "time": "4", "subject": "None" }
+      ],
+      "friday": [
+        { "time": "7", "subject": "None" },
+        { "time": "8", "subject": "None" },
+        { "time": "9", "subject": "Data Structures & Algorithms" },
+        { "time": "10", "subject": "None" },
+        { "time": "11", "subject": "None" },
+        { "time": "12", "subject": "Interval" },
+        { "time": "1", "subject": "None" },
+        { "time": "2", "subject": "Bioinformatics (Practical)" },
+        { "time": "3", "subject": "Bioinformatics (Practical)" },
+        { "time": "4", "subject": "None" }
+      ]
+    }
+  ]
+}
