@@ -1,13 +1,11 @@
 {
     "None": "#5E5E5E",
-    "Data Structures & Algorithms": "#FDB4B4",
-    "Web Technologies (Practical)": "#B1E8FF",
+    "Data Communication and Computer Networks": "#FDB4B4",
+    "Graphics and Visual Computing": "#B1E8FF",
     "Interval": "#01C64A",
-    "Bioinformatics": "#FFEC6B",
-    "Web Technologies (Theory)": "#86EFFF",
-    "English": "#FFC593",
-    "Operating Systems": "#FF93F8",
-    "Java Programming": "#FF6B6B",
-    "Professional Practice": "#AEA5FF",
-    "Bioinformatics (Practical)": "#FFF299"
+    "Advanced Topics in Computer Networks": "#FFEC6B",
+    "Rapid Application Development": "#86EFFF",
+    "Computer Programming III": "#FF6B6B",
+    "Machine Learning": "#AEA5FF",
+    "Image Processing and Computer Vision\n": "#FFF299"
 }

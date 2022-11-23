@@ -48,7 +48,8 @@
                     android:textStyle="bold"
                     android:textSize="17sp"
                     android:letterSpacing="0.04"
-                    android:layout_centerInParent="true" />
+                    android:layout_centerInParent="true"
+                    android:textAlignment="center"/>
 
         </RelativeLayout>
 
@@ -96,7 +97,8 @@
                     android:text=""
                     android:textStyle="bold"
                     android:textSize="17sp"
-                    android:letterSpacing="0.04"/>
+                    android:letterSpacing="0.04"
+                    android:textAlignment="center"/>
 
         </RelativeLayout>
 
@@ -144,7 +146,8 @@
                     android:text=""
                     android:textStyle="bold"
                     android:textSize="17sp"
-                    android:letterSpacing="0.04"/>
+                    android:letterSpacing="0.04"
+                    android:textAlignment="center"/>
 
         </RelativeLayout>
 
@@ -192,7 +195,8 @@
                     android:text=""
                     android:textStyle="bold"
                     android:textSize="17sp"
-                    android:letterSpacing="0.04"/>
+                    android:letterSpacing="0.04"
+                    android:textAlignment="center"/>
 
         </RelativeLayout>
 
@@ -240,7 +244,8 @@
                     android:text=""
                     android:textStyle="bold"
                     android:textSize="17sp"
-                    android:letterSpacing="0.04"/>
+                    android:letterSpacing="0.04"
+                    android:textAlignment="center"/>
 
         </RelativeLayout>
 
@@ -288,7 +293,8 @@
                     android:text=""
                     android:textStyle="bold"
                     android:textSize="17sp"
-                    android:letterSpacing="0.04"/>
+                    android:letterSpacing="0.04"
+                    android:textAlignment="center"/>
 
         </RelativeLayout>
 
@@ -336,7 +342,8 @@
                     android:text=""
                     android:textStyle="bold"
                     android:textSize="17sp"
-                    android:letterSpacing="0.04"/>
+                    android:letterSpacing="0.04"
+                    android:textAlignment="center"/>
 
         </RelativeLayout>
 
@@ -384,7 +391,8 @@
                     android:text=""
                     android:textStyle="bold"
                     android:textSize="17sp"
-                    android:letterSpacing="0.04"/>
+                    android:letterSpacing="0.04"
+                    android:textAlignment="center"/>
 
         </RelativeLayout>
 
@@ -432,7 +440,8 @@
                     android:text=""
                     android:textStyle="bold"
                     android:textSize="17sp"
-                    android:letterSpacing="0.04"/>
+                    android:letterSpacing="0.04"
+                    android:textAlignment="center"/>
 
         </RelativeLayout>
     </androidx.cardview.widget.CardView>
@@ -479,7 +488,8 @@
                     android:text=""
                     android:textStyle="bold"
                     android:textSize="17sp"
-                    android:letterSpacing="0.04"/>
+                    android:letterSpacing="0.04"
+                    android:textAlignment="center"/>
 
         </RelativeLayout>
     </androidx.cardview.widget.CardView>

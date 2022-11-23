@@ -3,63 +3,63 @@
     {
       "monday": [
         { "time": "7", "subject": "None" },
-        { "time": "8", "subject": "Data Structures & Algorithms" },
-        { "time": "9", "subject": "Web Technologies (Practical)" },
-        { "time": "10", "subject": "Web Technologies (Practical)" },
-        { "time": "11", "subject": "Web Technologies (Practical)" },
-        { "time": "12", "subject": "Interval" },
-        { "time": "1", "subject": "Bioinformatics" },
-        { "time": "2", "subject": "Professional Practice" },
-        { "time": "3", "subject": "Web Technologies (Theory)" },
-        { "time": "4", "subject": "None" }
-      ],
-      "tuesday": [
-        { "time": "7", "subject": "None" },
         { "time": "8", "subject": "None" },
-        { "time": "9", "subject": "English" },
-        { "time": "10", "subject": "English" },
-        { "time": "11", "subject": "Operating Systems" },
+        { "time": "9", "subject": "rama" },
+        { "time": "10", "subject": "None" },
+        { "time": "11", "subject": "None" },
         { "time": "12", "subject": "Interval" },
         { "time": "1", "subject": "None" },
         { "time": "2", "subject": "None" },
         { "time": "3", "subject": "None" },
         { "time": "4", "subject": "None" }
       ],
-      "wednesday": [
+      "tuesday": [
         { "time": "7", "subject": "None" },
         { "time": "8", "subject": "None" },
-        { "time": "9", "subject": "None" },
-        { "time": "10", "subject": "None" },
-        { "time": "11", "subject": "Operating Systems" },
+        { "time": "9", "subject": "Data Communication and Computer Networks" },
+        { "time": "10", "subject": "Rapid Application Development" },
+        { "time": "11", "subject": "None" },
         { "time": "12", "subject": "Interval" },
-        { "time": "1", "subject": "Web Technologies (Practical)" },
-        { "time": "2", "subject": "Web Technologies (Practical)" },
-        { "time": "3", "subject": "Web Technologies (Practical)" },
+        { "time": "1", "subject": "None" },
+        { "time": "2", "subject": "None" },
+        { "time": "3", "subject": "Rapid Application Development" },
+        { "time": "4", "subject": "rama" }
+      ],
+      "wednesday": [
+        { "time": "7", "subject": "None" },
+        { "time": "8", "subject": "Advanced Topics in Computer Networks" },
+        { "time": "9", "subject": "Advanced Topics in Computer Networks" },
+        { "time": "10", "subject": "Graphics and Visual Computing" },
+        { "time": "11", "subject": "None" },
+        { "time": "12", "subject": "Interval" },
+        { "time": "1", "subject": "None" },
+        { "time": "2", "subject": "rama" },
+        { "time": "3", "subject": "None" },
         { "time": "4", "subject": "None" }
       ],
       "thursday": [
         { "time": "7", "subject": "None" },
-        { "time": "8", "subject": "None" },
-        { "time": "9", "subject": "Java Programming" },
-        { "time": "10", "subject": "Java Programming" },
-        { "time": "11", "subject": "Java Programming" },
+        { "time": "8", "subject": "Advanced Topics in Computer Networks" },
+        { "time": "9", "subject": "Advanced Topics in Computer Networks" },
+        { "time": "10", "subject": "None" },
+        { "time": "11", "subject": "Data Communication and Computer Networks" },
         { "time": "12", "subject": "Interval" },
-        { "time": "1", "subject": "Bioinformatics" },
-        { "time": "2", "subject": "Professional Practice" },
+        { "time": "1", "subject": "None" },
+        { "time": "2", "subject": "rama" },
         { "time": "3", "subject": "None" },
-        { "time": "4", "subject": "None" }
+        { "time": "4", "subject": "Graphics and Visual Computing" }
       ],
       "friday": [
         { "time": "7", "subject": "None" },
-        { "time": "8", "subject": "None" },
-        { "time": "9", "subject": "Data Structures & Algorithms" },
-        { "time": "10", "subject": "None" },
-        { "time": "11", "subject": "None" },
+        { "time": "8", "subject": "Computer Programming III" },
+        { "time": "9", "subject": "Computer Programming III" },
+        { "time": "10", "subject": "Computer Programming III" },
+        { "time": "11", "subject": "Computer Programming III" },
         { "time": "12", "subject": "Interval" },
         { "time": "1", "subject": "None" },
-        { "time": "2", "subject": "Bioinformatics (Practical)" },
-        { "time": "3", "subject": "Bioinformatics (Practical)" },
-        { "time": "4", "subject": "None" }
+        { "time": "2", "subject": "None" },
+        { "time": "3", "subject": "None" },
+        { "time": "4", "subject": "Rapid Application Development" }
       ]
     }
   ]
