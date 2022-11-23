@@ -4,7 +4,7 @@
       "monday": [
         { "time": "7", "subject": "None" },
         { "time": "8", "subject": "None" },
-        { "time": "9", "subject": "rama" },
+        { "time": "9", "subject": "Image Processing & Computer Vision" },
         { "time": "10", "subject": "None" },
         { "time": "11", "subject": "None" },
         { "time": "12", "subject": "Interval" },
@@ -16,38 +16,38 @@
       "tuesday": [
         { "time": "7", "subject": "None" },
         { "time": "8", "subject": "None" },
-        { "time": "9", "subject": "Data Communication and Computer Networks" },
+        { "time": "9", "subject": "Data Communication & Computer Networks" },
         { "time": "10", "subject": "Rapid Application Development" },
         { "time": "11", "subject": "None" },
         { "time": "12", "subject": "Interval" },
         { "time": "1", "subject": "None" },
         { "time": "2", "subject": "None" },
         { "time": "3", "subject": "Rapid Application Development" },
-        { "time": "4", "subject": "rama" }
+        { "time": "4", "subject": "Image Processing & Computer Vision" }
       ],
       "wednesday": [
         { "time": "7", "subject": "None" },
-        { "time": "8", "subject": "Advanced Topics in Computer Networks" },
-        { "time": "9", "subject": "Advanced Topics in Computer Networks" },
-        { "time": "10", "subject": "Graphics and Visual Computing" },
+        { "time": "8", "subject": "Advanced Topics in Networks" },
+        { "time": "9", "subject": "Advanced Topics in Networks" },
+        { "time": "10", "subject": "Graphics & Visual Computing" },
         { "time": "11", "subject": "None" },
         { "time": "12", "subject": "Interval" },
         { "time": "1", "subject": "None" },
-        { "time": "2", "subject": "rama" },
+        { "time": "2", "subject": "Image Processing & Computer Vision" },
         { "time": "3", "subject": "None" },
         { "time": "4", "subject": "None" }
       ],
       "thursday": [
         { "time": "7", "subject": "None" },
-        { "time": "8", "subject": "Advanced Topics in Computer Networks" },
-        { "time": "9", "subject": "Advanced Topics in Computer Networks" },
+        { "time": "8", "subject": "Advanced Topics in Networks" },
+        { "time": "9", "subject": "Advanced Topics in Networks" },
         { "time": "10", "subject": "None" },
-        { "time": "11", "subject": "Data Communication and Computer Networks" },
+        { "time": "11", "subject": "Data Communication & Computer Networks" },
         { "time": "12", "subject": "Interval" },
         { "time": "1", "subject": "None" },
-        { "time": "2", "subject": "rama" },
+        { "time": "2", "subject": "Image Processing & Computer Vision" },
         { "time": "3", "subject": "None" },
-        { "time": "4", "subject": "Graphics and Visual Computing" }
+        { "time": "4", "subject": "Graphics & Visual Computing" }
       ],
       "friday": [
         { "time": "7", "subject": "None" },

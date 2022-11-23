@@ -251,7 +251,6 @@ public class MainActivity extends AppCompatActivity implements TabLayoutMediator
         tab.select();
     }
 
-
     class UpdateData extends AsyncTask<String, Void, String> {
 
         private final SwipeRefreshLayout swipeRefreshLayout;
