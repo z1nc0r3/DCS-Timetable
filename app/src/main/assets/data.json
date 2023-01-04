@@ -4,9 +4,9 @@
       "monday": [
         { "time": "7", "subject": "None" },
         { "time": "8", "subject": "None" },
-        { "time": "9", "subject": "Image Processing & Computer Vision" },
-        { "time": "10", "subject": "None" },
-        { "time": "11", "subject": "None" },
+        { "time": "9", "subject": "Image Processing" },
+        { "time": "10", "subject": "Advanced Networks (SSH)" },
+        { "time": "11", "subject": "Advanced Networks (SSH)" },
         { "time": "12", "subject": "Interval" },
         { "time": "1", "subject": "None" },
         { "time": "2", "subject": "None" },
@@ -16,37 +16,37 @@
       "tuesday": [
         { "time": "7", "subject": "None" },
         { "time": "8", "subject": "None" },
-        { "time": "9", "subject": "Data Communication & Computer Networks" },
-        { "time": "10", "subject": "Rapid Application Development" },
-        { "time": "11", "subject": "None" },
+        { "time": "9", "subject": "Data Communication" },
+        { "time": "10", "subject": "Rapid App Development" },
+        { "time": "11", "subject": "Advanced Networks (SSH)" },
         { "time": "12", "subject": "Interval" },
         { "time": "1", "subject": "None" },
         { "time": "2", "subject": "None" },
-        { "time": "3", "subject": "Rapid Application Development" },
-        { "time": "4", "subject": "Image Processing & Computer Vision" }
+        { "time": "3", "subject": "Rapid App Development" },
+        { "time": "4", "subject": "Image Processing" }
       ],
       "wednesday": [
         { "time": "7", "subject": "None" },
-        { "time": "8", "subject": "Advanced Topics in Networks" },
-        { "time": "9", "subject": "Advanced Topics in Networks" },
+        { "time": "8", "subject": "Advanced Networks (SSH)" },
+        { "time": "9", "subject": "Advanced Networks (SSH)" },
         { "time": "10", "subject": "Graphics & Visual Computing" },
         { "time": "11", "subject": "None" },
         { "time": "12", "subject": "Interval" },
         { "time": "1", "subject": "None" },
-        { "time": "2", "subject": "Image Processing & Computer Vision" },
-        { "time": "3", "subject": "None" },
-        { "time": "4", "subject": "None" }
+        { "time": "2", "subject": "Image Processing" },
+        { "time": "3", "subject": "Advanced Networks (SSH)" },
+        { "time": "4", "subject": "Advanced Networks (SSH)" }
       ],
       "thursday": [
         { "time": "7", "subject": "None" },
-        { "time": "8", "subject": "Advanced Topics in Networks" },
-        { "time": "9", "subject": "Advanced Topics in Networks" },
+        { "time": "8", "subject": "Advanced Networks (SSH)" },
+        { "time": "9", "subject": "Advanced Networks (SSH)" },
         { "time": "10", "subject": "None" },
-        { "time": "11", "subject": "Data Communication & Computer Networks" },
+        { "time": "11", "subject": "Data Communication" },
         { "time": "12", "subject": "Interval" },
-        { "time": "1", "subject": "None" },
-        { "time": "2", "subject": "Image Processing & Computer Vision" },
-        { "time": "3", "subject": "None" },
+        { "time": "1", "subject": "Image Processing" },
+        { "time": "2", "subject": "Image Processing" },
+        { "time": "3", "subject": "Advanced Networks (SSH)" },
         { "time": "4", "subject": "Graphics & Visual Computing" }
       ],
       "friday": [
@@ -59,7 +59,7 @@
         { "time": "1", "subject": "None" },
         { "time": "2", "subject": "None" },
         { "time": "3", "subject": "None" },
-        { "time": "4", "subject": "Rapid Application Development" }
+        { "time": "4", "subject": "Rapid App Development" }
       ]
     }
   ]
