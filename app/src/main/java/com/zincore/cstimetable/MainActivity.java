@@ -2,9 +2,12 @@ package com.zincore.cstimetable;
 
 import android.content.SharedPreferences;
 import android.content.res.Resources;
+import android.graphics.Rect;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.StrictMode;
+import android.util.Log;
+import android.view.Window;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
@@ -195,9 +198,10 @@ public class MainActivity extends AppCompatActivity implements TabLayoutMediator
 
         Resources myResources = getResources();
         int idStatusBarHeight = myResources.getIdentifier("status_bar_height", "dimen", "android");
+
         statusBarHeight = getResources().getDimensionPixelSize(idStatusBarHeight);
 
-        int resourceId = getResources().getIdentifier("navigation_bar_height", "dimen", "android");
+        int resourceId = myResources.getIdentifier("navigation_bar_height", "dimen", "android");
         if (resourceId > 0) {
             navigationBarHeight = getResources().getDimensionPixelSize(resourceId) / getResources().getDisplayMetrics().density;
         }
@@ -269,8 +273,7 @@ public class MainActivity extends AppCompatActivity implements TabLayoutMediator
             MediaType mediaType = MediaType.parse("text/plain");
             RequestBody body = RequestBody.create("", mediaType);
             Request request = new Request.Builder()
-                    .url("http://dcstimetable.rf.gd/data.json")
-                    .method("POST", body)
+                    .url("https://gist.githubusercontent.com/z1nc0r3/a8e6ea833ca1ee65464222e3eab72811/raw/")
                     .build();
 
             try {
@@ -279,7 +282,8 @@ public class MainActivity extends AppCompatActivity implements TabLayoutMediator
                 response.close();
 
                 return resBody;
-            } catch (IOException | NullPointerException e) {
+            } catch (Exception e) {
+                Log.e("devlog", e.toString());
                 return "error";
             }
         }
