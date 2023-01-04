@@ -1,11 +1,11 @@
 {
     "None": "#5E5E5E",
-    "Data Communication & Computer Networks": "#FDB4B4",
+    "Data Communication": "#FDB4B4",
     "Graphics & Visual Computing": "#B1E8FF",
     "Interval": "#01C64A",
-    "Advanced Topics in Networks": "#FFEC6B",
-    "Rapid Application Development": "#86EFFF",
+    "Advanced Networks (SSH)": "#FFEC6B",
+    "Rapid App Development": "#86EFFF",
     "Computer Programming III": "#FF6B6B",
     "Machine Learning": "#FFF299",
-    "Image Processing & Computer Vision": "#AEA5FF"
+    "Image Processing": "#AEA5FF"
 }
